@@ -2,5 +2,4 @@ venv
 __init__.py
 .vscode
 db.sqlite3
-myshop/__pycache__
-shop/__pycache__
+__pycache__
